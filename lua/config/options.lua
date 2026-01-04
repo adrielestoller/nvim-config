@@ -13,3 +13,4 @@ vim.opt.signcolumn = "yes"
 vim.opt.updatetime = 300
 vim.opt.timeoutlen = 400
 vim.opt.clipboard = "unnamedplus"
+vim.opt.undofile = true
